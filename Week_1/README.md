@@ -1,6 +1,6 @@
 # Codechef
-##################################################################################################################################################################
-Contest Code:PRACTICE Problem Code:MATCHES
+######################################################################################################
+# Contest Code:PRACTICE Problem Code:MATCHES
 
 Chef's son Chefu found some matches in the kitchen and he immediately starting playing with them.
 
@@ -34,8 +34,8 @@ Example case 1: The result is 357. We need 5 matches to write the digit 3, 5 mat
 Example case 2: The result is 11111. We need 2 matches to write each digit 1, which is 2⋅5=10 matches in total.
 
 
-##################################################################################################################################################################
-Contest Code:PRACTICE Problem Code:LUCKFOUR
+######################################################################################################
+# Contest Code:PRACTICE Problem Code:LUCKFOUR
 
 Kostya likes the number 4 much. Of course! This number has such a lot of properties, like:
 
@@ -78,8 +78,8 @@ Output:
 1
 0
 
-##################################################################################################################################################################
-Contest Code:PRACTICE Problem Code:PCJ18B
+######################################################################################################
+# Contest Code:PRACTICE Problem Code:PCJ18B
 
 Chef has recently been playing a lot of chess in preparation for the ICCT (International Chef Chess Tournament).
 
@@ -105,8 +105,8 @@ Sample Output:
     120
    
 
-##################################################################################################################################################################
-PRACTICE Problem Code:ICL1902
+######################################################################################################
+# Contest Code:PRACTICE Problem Code:ICL1902
 
 In the 2-D world of Flatland, the Circles were having their sports day and wanted to end it with a nice formation. So, they called upon Mr. Sphere from Spaceland for help. Mr Sphere decides to arrange the Circles in square formations. He starts with N Circles and forms the largest possible square using these Circles. He then takes the remaining Circles and repeats the procedure. A square of side S requires S2 Circles to create.
 
@@ -133,8 +133,8 @@ Sample Output:
 EXPLANATION:
 Test case 1 : Mr Sphere forms a square of side 9 using 81 Circles and then forms a square of side 2 using the remaining 4.
 
-##################################################################################################################################################################
-PRACTICE Problem Code:SNCKYEAR
+######################################################################################################
+# Contest Code:PRACTICE Problem Code:SNCKYEAR
 
 Chef is interested in the history of SnackDown contests. He needs a program to verify if SnackDown was hosted in a given year.
 
