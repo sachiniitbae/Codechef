@@ -16,16 +16,16 @@ Constraints
 1≤T≤100\
 1≤L≤R≤105\
 Subtasks\
-Subtask #1 (100 points): original constraints\
+Subtask #1 (100 points): original constraints
 
-Example Input\
+Example Input
 2\
 1 10\
 11 33\
-Example Output\
+Example Output
 3\
 8\
 Explanation\
-Example case 1: The pretty numbers between 1 and 10 are 2, 3 and 9.\
+Example case 1: The pretty numbers between 1 and 10 are 2, 3 and 9.
 
-Example case 2: The pretty numbers between 11 and 33 are 12, 13, 19, 22, 23, 29, 32 and 33.\
+Example case 2: The pretty numbers between 11 and 33 are 12, 13, 19, 22, 23, 29, 32 and 33.
