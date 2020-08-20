@@ -12,17 +12,17 @@ The first and only line of each test case contains two space-separated integers 
 Output
 For each test case, print a single line containing one integer — the number of pretty numbers between L and R.
 
-Constraints
+Constraints\
 1≤T≤100\
 1≤L≤R≤105\
 Subtasks\
-Subtask #1 (100 points): original constraints
+Subtask #1 (100 points): original constraints\
 
-Example Input
+Example Input\
 2\
 1 10\
 11 33\
-Example Output
+Example Output\
 3\
 8\
 Explanation\
